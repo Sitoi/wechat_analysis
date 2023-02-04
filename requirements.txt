@@ -1,0 +1,6 @@
+pandas~=1.2.0
+pkuseg~=0.0.25
+pyecharts==1.9.1
+snownlp~=0.12.3
+tqdm~=4.44.1
+pygame~=2.1.2
